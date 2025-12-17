@@ -2,7 +2,7 @@
 
 ### ⚠️ Project Context (Vibe Check)
 **This is a reconstruction.**
-I originally built this project for a live business environment. Due to **GDPR restrictions** and loss of the original source files, I cannot publish the production repo.
+I originally built this project for a live business environment (i was really bored at my store Job, when i was 16). Due to **GDPR restrictions** and loss of the original source files, I cannot publish the production repo.
 
 * **The Logic:** This repo contains a complete re-implementation of the logic I used.
 * **The Data:** The dataset here is **synthetic**. I wrote a generator to create dummy data that mimics the statistical distribution and correlations of the original private dataset. This allows you to run the code immediately.
